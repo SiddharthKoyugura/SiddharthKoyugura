@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Programmer || AI, DL, ML enthusiast || Full Stack Unicorn</h1>
+<h1 align="center">Hi 👋, I'm a Programmer || AI, DL, ML enthusiast || Full Stack Unicorn</h1>
 <h3 align="center">A passionate Machine Learning and Deep Learning enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthkoyugura&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthkoyugura" /> </p>
