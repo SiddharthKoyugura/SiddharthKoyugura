@@ -3,7 +3,7 @@
 
 [![GitHub Badge](https://img.shields.io/github/followers/SiddharthKoyugura?style=for-the-badge&logo=GitHub&logoColor=white)](mailto:koyugurasiddhardha@gmail.com "Follow On GitHub")
 [![Gmail Badge](https://img.shields.io/badge/koyugurasiddhardha@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:koyugurasiddhardha@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Sushrit%20Pasupuleti-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sushritpasupuleti/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Siddhardha%20Koyugura-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/siddhardha-koyugura-954139204/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/twitter/follow/Siddharth__6689?label=Follow%20on%20Twitter&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Siddharth__6689 "Follow on Twitter")
 [![Medium Badge](https://img.shields.io/badge/-@koyugurasiddhardha-00acee?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@koyugurasiddhardha "Follow on Medium")
 
