@@ -7,7 +7,6 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/Siddharth__6689?label=Follow%20on%20Twitter&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=Siddharth__6689 "Follow on Twitter")
 [![Medium Badge](https://img.shields.io/badge/-@koyugurasiddhardha-00acee?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@koyugurasiddhardha "Follow on Medium")
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthkoyugura&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthkoyugura" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharthkoyugura" alt="siddharthkoyugura" /></a> </p>
 
