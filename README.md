@@ -8,8 +8,6 @@
 [![Medium Badge](https://img.shields.io/badge/-@koyugurasiddhardha-00acee?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@koyugurasiddhardha "Follow on Medium")
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharthkoyugura" alt="siddharthkoyugura" /></a> </p>
-
 - 💬 Ask me about **flask, django, MERN stack, AI, ML, DL**
 
 - 📫 How to reach me **koyugurasiddhardha@gmail.com**
