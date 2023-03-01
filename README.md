@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Programmer || AI, DL, ML enthusiast || Full Stack Unicorn</h1>
+<h1 align="center">Hi 👋, I'm Siddhardha Koyugura</h1>
 <h3 align="center">A passionate Deep Learning enthusiast</h3>
 
 [![GitHub Badge](https://img.shields.io/github/followers/SiddharthKoyugura?style=for-the-badge&logo=GitHub&logoColor=white)](mailto:koyugurasiddhardha@gmail.com "Follow On GitHub")
