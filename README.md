@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhardha Koyugura</h1>
-<h3 align="center">A passionate Deep Learning enthusiast</h3>
+<h3 align="center">A passionate Full Stack Unicorn and Deep Learning enthusiast</h3>
  
 [![GitHub Badge](https://img.shields.io/github/followers/SiddharthKoyugura?style=for-the-badge&logo=GitHub&logoColor=white)](mailto:koyugurasiddhardha@gmail.com "Follow On GitHub")
 [![Gmail Badge](https://img.shields.io/badge/koyugurasiddhardha@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:koyugurasiddhardha@gmail.com "Connect via Email")
