@@ -10,7 +10,6 @@
 
 - 💬 Ask me about **flask, django, MERN stack, AI, ML, DL**
 
-- 📫 How to reach me **koyugurasiddhardha@gmail.com**
 
 
 ## Flex Zone 💪
